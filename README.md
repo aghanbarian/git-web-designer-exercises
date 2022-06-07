@@ -1,4 +1,4 @@
 # git-web-designer-exercises
 for github courses
 
-excerxises for learing git and github 
+exercises for learing git and github 
